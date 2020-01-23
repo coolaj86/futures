@@ -1,2 +1,2 @@
 # Moved
-### [futures](https://git.daplie.com/coolaj86/futures) is now at [git.daplie.com/coolaj86/futures](https://git.daplie.com/coolaj86/futures)
+### [futures](https://github.com/FuturesJS) is now at [https://github.com/FuturesJS](https://github.com/FuturesJS)
